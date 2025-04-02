@@ -1,5 +1,5 @@
 {
-  "Human_healthy_skin": {
+  "Human_healthy_Skin": {
     "model_name": "Adult_Human_Skin",
     "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Skin_Reynolds/v1/Adult_Human_Skin.pkl"
   }

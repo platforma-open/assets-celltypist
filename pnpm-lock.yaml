@@ -76,10 +76,10 @@ importers:
         version: link:../human-healthy/Human_healthy_PrefrontalCortex
       '@platforma-open/milaboratories.celltypist-assets.human-healthy-skin':
         specifier: workspace:*
-        version: link:../human-healthy/Human_healthy_skin
+        version: link:../human-healthy/Human_healthy_Skin
       '@platforma-open/milaboratories.celltypist-assets.human-healthy-vascular':
         specifier: workspace:*
-        version: link:../human-healthy/Human_healthy_vascular
+        version: link:../human-healthy/Human_healthy_Vascular
       '@platforma-open/milaboratories.celltypist-assets.mouse-healthy-brain':
         specifier: workspace:*
         version: link:../mouse-healthy/Mouse_healthy_Brain
@@ -187,13 +187,13 @@ importers:
         specifier: 'catalog:'
         version: 2.15.6
 
-  human-healthy/Human_healthy_skin:
+  human-healthy/Human_healthy_Skin:
     devDependencies:
       '@platforma-sdk/package-builder':
         specifier: 'catalog:'
         version: 2.15.6
 
-  human-healthy/Human_healthy_vascular:
+  human-healthy/Human_healthy_Vascular:
     devDependencies:
       '@platforma-sdk/package-builder':
         specifier: 'catalog:'

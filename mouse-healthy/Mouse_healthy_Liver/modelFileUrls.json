@@ -1,0 +1,6 @@
+{
+  "Mouse_healthy_Liver": {
+    "model_name": "Healthy_Mouse_Liver",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Mouse_Liver_Guilliams/v1/Healthy_Mouse_Liver.pkl"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Mouse_healthy_Brain": {
+    "model_name": "Mouse_Whole_Brain",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Adult_MouseBrain_Yao/v1/Mouse_Whole_Brain.pkl"
+  }
+}

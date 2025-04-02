@@ -1,0 +1,6 @@
+{
+  "Human_healthy_MiddleTemporalGyrus": {
+    "model_name": "Adult_Human_MTG",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_MTG_Allen/v1/Adult_Human_MTG.pkl"
+  }
+}

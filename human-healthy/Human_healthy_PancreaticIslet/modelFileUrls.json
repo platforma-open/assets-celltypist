@@ -1,0 +1,6 @@
+{
+  "Human_healthy_PancreaticIslet": {
+    "model_name": "Adult_Human_PancreaticIslet",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Pancreas_Tritschler/v1/Adult_Human_PancreaticIslet.pkl"
+  }
+}

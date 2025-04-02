@@ -1,0 +1,6 @@
+{
+  "Human_healthy_Lung": {
+    "model_name": "Human_Lung_Atlas",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Lung_Sikkema/v2/Human_Lung_Atlas.pkl"
+  }
+}

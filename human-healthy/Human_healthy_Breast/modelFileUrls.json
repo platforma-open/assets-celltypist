@@ -1,0 +1,6 @@
+{
+  "Human_healthy_Breast": {
+    "model_name": "Cells_Adult_Breast",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Adult_Breast_Kumar/v1/Cells_Adult_Breast.pkl"
+  }
+}

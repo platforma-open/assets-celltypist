@@ -1,0 +1,106 @@
+{
+    "name": "@platforma-open/milaboratories.celltypist-assets",
+    "version": "1.0.0",
+    "description": "CellTypist model assets catalogue",
+    "scripts": {
+        "cleanup": "rm -rf ./pkg-*.tgz && rm -rf ./dist/",
+        "build": "pl-pkg build"
+    },
+    "block-software": {
+        "entrypoints": {
+            "human-healthy-immunepopulations": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-immunepopulations/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-immunesubpopulations": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-immunesubpopulations/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-skin": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-skin/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-vascular": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-vascular/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-prefrontalcortex": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-prefrontalcortex/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-middletemporalgyrus": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-middletemporalgyrus/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-hippocampus": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-hippocampus/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-breast": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-breast/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-lung": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-lung/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-heart": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-heart/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-liver": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-liver/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-endometrium": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-endometrium/dist/tengo/asset/main.as.json"
+            },
+            "human-healthy-pancreaticislet": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-healthy-pancreaticislet/dist/tengo/asset/main.as.json"
+            },
+            "human-disease-colorectalcancer": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-disease-colorectalcancer/dist/tengo/asset/main.as.json"
+            },
+            "human-disease-idiopaticpulmonaryfibrosis": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-disease-idiopaticpulmonaryfibrosis/dist/tengo/asset/main.as.json"
+            },
+            "human-disease-covid19-blood": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-disease-covid19-blood/dist/tengo/asset/main.as.json"
+            },
+            "human-disease-covid19-lungblood": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.human-disease-covid19-lungblood/dist/tengo/asset/main.as.json"
+            },
+            "mouse-healthy-gut": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-gut/dist/tengo/asset/main.as.json"
+            },
+            "mouse-healthy-olfactorybulb": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-olfactorybulb/dist/tengo/asset/main.as.json"
+            },
+            "mouse-healthy-liver": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-liver/dist/tengo/asset/main.as.json"
+            },
+            "mouse-healthy-brain": {
+                "reference": "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-brain/dist/tengo/asset/main.as.json"
+            }
+        }
+    },
+    "files": [
+        "dist/"
+    ],
+    "license": "UNLICENSED",
+    "dependencies": {
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-immunepopulations": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-immunesubpopulations": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-skin": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-vascular": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-prefrontalcortex": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-middletemporalgyrus": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-hippocampus": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-breast": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-lung": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-heart": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-liver": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-endometrium": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-healthy-pancreaticislet": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-disease-colorectalcancer": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-disease-idiopaticpulmonaryfibrosis": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-disease-covid19-blood": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.human-disease-covid19-lungblood": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-gut": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-olfactorybulb": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-liver": "workspace:*",
+        "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-brain": "workspace:*"
+    },
+    "devDependencies": {
+        "@platforma-sdk/package-builder": "catalog:"
+    }
+}

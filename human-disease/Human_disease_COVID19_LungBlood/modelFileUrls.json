@@ -1,0 +1,6 @@
+{
+  "Human_disease_COVID19_LungBlood": {
+    "model_name": "COVID19_Immune_Landscape",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/COVID19_Immune_Ren/v1/COVID19_Immune_Landscape.pkl"
+  }
+}

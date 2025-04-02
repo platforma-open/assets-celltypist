@@ -1,0 +1,6 @@
+{
+  "Human_healthy_ImmuneSubpopulations": {
+    "model_name": "Immune_All_Low",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Pan_Immune_CellTypist/v2/Immune_All_Low.pkl"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Human_disease_ColorectalCancer": {
+    "model_name": "Human_Colorectal_Cancer",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Colorectal_Cancer_Lee/v1/Human_Colorectal_Cancer.pkl"
+  }
+}

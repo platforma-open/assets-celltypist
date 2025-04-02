@@ -1,0 +1,28 @@
+{
+  "name": "@platforma-open/milaboratories.celltypist-assets.human-healthy-skin",
+  "version": "1.0.0",
+  "description": "CellTypist model for Human_healthy_Skin",
+  "scripts": {
+    "cleanup": "rm -rf ./pkg-*.tgz && rm -rf ./build/ && rm -rf ./dist/",
+    "build": "../../scripts/build-everything.sh ./modelFileUrls.json",
+    "postbuild": "pl-pkg build && ([ -z \"${CI}\" ] || pl-pkg publish)"
+  },
+  "block-software": {
+    "entrypoints": {
+      "main": {
+        "asset": {
+          "type": "asset",
+          "registry": "platforma-open",
+          "root": "./indexed_model/Human_healthy_Skin"
+        }
+      }
+    }
+  },
+  "files": [
+    "dist/"
+  ],
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@platforma-sdk/package-builder": "catalog:"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Human_healthy_vascular": {
+    "model_name": "Adult_Human_Vascular",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Pan_Vas_Barnett/v1/Adult_Human_Vascular.pkl"
+  }
+}

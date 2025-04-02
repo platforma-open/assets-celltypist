@@ -1,0 +1,6 @@
+{
+  "Human_healthy_Liver": {
+    "model_name": "Healthy_Human_Liver",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Liver_Guilliams/v1/Healthy_Human_Liver.pkl"
+  }
+}

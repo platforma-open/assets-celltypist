@@ -1,0 +1,6 @@
+{
+  "Human_healthy_PrefrontalCortex": {
+    "model_name": "Adult_Human_PrefrontalCortex",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_PFC_Ma/v1/Adult_Human_PrefrontalCortex.pkl"
+  }
+}

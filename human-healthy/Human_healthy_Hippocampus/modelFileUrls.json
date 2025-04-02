@@ -1,0 +1,6 @@
+{
+  "Human_healthy_Hippocampus": {
+    "model_name": "Human_Longitudinal_Hippocampus",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Hippocampus_Zhou/v1/Human_AdultAged_Hippocampus.pkl"
+  }
+}

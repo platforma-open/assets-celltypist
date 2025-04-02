@@ -1,0 +1,6 @@
+{
+  "Human_disease_IdiopaticPulmonaryFibrosis": {
+    "model_name": "Human_IPF_Lung",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/IPF_HumanLung_Adams/v1/Human_IPF_Lung.pkl"
+  }
+}

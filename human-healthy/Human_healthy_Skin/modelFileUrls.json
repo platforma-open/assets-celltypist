@@ -1,0 +1,6 @@
+{
+  "Human_healthy_skin": {
+    "model_name": "Adult_Human_Skin",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Skin_Reynolds/v1/Adult_Human_Skin.pkl"
+  }
+}

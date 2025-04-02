@@ -1,0 +1,6 @@
+{
+  "Mouse_healthy_Gut": {
+    "model_name": "Adult_Mouse_Gut",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Mouse_Gut_Casado/v2/Adult_Mouse_Gut.pkl"
+  }
+}

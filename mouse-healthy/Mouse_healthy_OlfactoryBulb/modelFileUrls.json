@@ -1,0 +1,6 @@
+{
+  "Mouse_healthy_OlfactoryBulb": {
+    "model_name": "Adult_Mouse_OlfactoryBulb",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Mouse_OB_Tepe/v1/Adult_Mouse_OlfactoryBulb.pkl"
+  }
+}

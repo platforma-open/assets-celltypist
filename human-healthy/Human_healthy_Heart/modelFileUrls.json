@@ -1,0 +1,6 @@
+{
+  "Human_healthy_Heart": {
+    "model_name": "Healthy_Adult_Heart",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Heart_Kanemaru/v1/Healthy_Adult_Heart.pkl"
+  }
+}

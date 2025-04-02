@@ -1,0 +1,6 @@
+{
+  "Human_disease_COVID19_Blood": {
+    "model_name": "COVID19_HumanChallenge_Blood",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/COVID19_HumanBlood_Dratva/v1/COVID19_HumanChallenge_Blood.pkl"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Human_healthy_Endometrium": {
+    "model_name": "Human_Endometrium_Atlas",
+    "model_url": "https://celltypist.cog.sanger.ac.uk/models/Human_Endometrium_Mareckova/v1/Human_Endometrium_Atlas.pkl"
+  }
+}

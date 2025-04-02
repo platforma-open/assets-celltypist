@@ -2,7 +2,7 @@
   "name": "genome-assets",
   "scripts": {
     "cleanup": "pnpm -r cleanup",
-    "build": "turbo run build",
+    "build": "turbo run build --log-order=stream --env-mode=loose",
     "test": "turbo run test",
     "changeset": "changeset",
     "version-packages": "changeset version"

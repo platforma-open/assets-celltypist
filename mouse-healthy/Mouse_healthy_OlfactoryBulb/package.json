@@ -1,6 +1,6 @@
 {
   "name": "@platforma-open/milaboratories.celltypist-assets.mouse-healthy-olfactorybulb",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CellTypist model for Mouse_healthy_OlfactoryBulb",
   "scripts": {
     "cleanup": "rm -rf ./pkg-*.tgz && rm -rf ./build/ && rm -rf ./dist/",

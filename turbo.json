@@ -3,7 +3,7 @@
   "globalDependencies": ["tsconfig.json"],
   "tasks": {
     "build": {
-      "env": ["CI"],
+      "env": ["CI" ],
       "inputs": ["$TURBO_DEFAULT$"],
       "outputs": ["./dist/**"],
       "dependsOn": ["^build"]
